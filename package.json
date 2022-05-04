@@ -1,0 +1,23 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "hexlet package",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakovlevaos/hexlet-js.git"
+  },
+  "keywords": [
+    "hexlet"
+  ],
+  "author": "Olga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yakovlevaos/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/yakovlevaos/hexlet-js#readme"
+}
