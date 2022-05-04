@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/yakovlevaos/hexlet-js/issues"
   },
-  "homepage": "https://github.com/yakovlevaos/hexlet-js#readme"
+  "homepage": "https://github.com/yakovlevaos/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^28.0.3",
+    "prettier": "^2.6.2"
+  }
 }
